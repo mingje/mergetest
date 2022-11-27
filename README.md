@@ -1,4 +1,4 @@
 # mergetest
 
-Version develop 1.2
+Version develop 1.3
 
